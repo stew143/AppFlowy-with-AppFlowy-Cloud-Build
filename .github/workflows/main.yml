@@ -1,0 +1,2 @@
+# Create and push a tag for building AppFlowy version 0.3.8 on the main branch
+git tag 0.3.8_main && git push origin 0.3.8_main
